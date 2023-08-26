@@ -1,0 +1,8 @@
+Download And Install virtualenvironment:
+    python -m pip install virtualenv
+
+Make New Envirotnment Variable (.venv Is Your Virtual Environmenet Folder Name):
+    python -m venv .venv
+
+Add Virtual Environmenet To You Default Path:
+    .venv\Scripts\activate

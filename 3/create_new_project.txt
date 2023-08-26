@@ -1,0 +1,15 @@
+Create Virtual Environment:
+    python -m venv .venv
+
+Now You Need To Install Django:
+    python -m pip install django
+
+Now, You Need To Create Your Project Like:
+    django-admin startproject [your-project-name]
+
+But There Is Some Better Way That I Personally Always Use. You Have To Create A Folder With Name Of Your Project.
+After That Go Inside The Folder That You Made. After That Open CMD Or Terminal That You User There. After That
+Type This Command :
+    django-admin startproject settings .
+
+It Will Help You In The Future That You Can Separate Your Main Project Folder With Apps That Are In Your Project.

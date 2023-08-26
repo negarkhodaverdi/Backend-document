@@ -1,0 +1,19 @@
+Create New App Inside Your Project :
+    python manage.py startapp [your-app-name]
+
+Run Your Project :
+    python manage.py runserver
+
+Make Migrations And Migration Itself ( You Need To Do This After Every Change On Models ) :
+    python manage.py makemigrations
+    python manage.py migrate
+
+To Create A Superuser That Has Access To Everything In Admin Panel :
+    python manage.py createsuperuser
+After That You Give Your Data And Django Will Make A User For You. Data Would Be username,password And Email.
+
+To Access Shell That You Can Do Your Job Manually :
+    python manage.py shell
+
+To See What Other Commands Are Exists In Django Use This :
+    python manage.py help

@@ -1,0 +1,6 @@
+Go To Your Project Directory And Open cmd There. After That Type These Commands :
+
+.venv\Scripts\activate
+python manage.py runserver
+
+And If You Want To Pause The Server Just Press Ctrl+C.

@@ -1,0 +1,14 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+</head>
+<body>
+    {% for todo in todos %}
+        <h1>{{ todo.title }}</h1>
+        <h2>{{ todo.text }}</h2>
+        <p>{{ todo.status }}</p>
+    {% endfor %}
+</body>
+</html>

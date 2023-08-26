@@ -1,0 +1,7 @@
+install python
+
+variables.py
+operators.py
+methods.py
+
+check https://www.codingame.com

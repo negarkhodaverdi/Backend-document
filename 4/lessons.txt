@@ -1,0 +1,34 @@
+HttpRequests( With Statuses ) And Type Of Them ( POST, PUT, OPTIONS, GET, DELETE )
+
+Whats MVC?
+
+Urls And How We Can Get Data From User.
+
+create a simple Function Based view
+create a simple model
+retgister model on admin panel
+
+Convert App To Persian
+Check To Complete Form Of Model In Admin
+
+Create And Remove Record Of Model
+extract data from model and return it on view
+
+exersices.py
+
+Fields For Models.
+One-To-One And Many-To-Many And ForeignKeys.
+Get book_set From Book Model
+
+Methods Inside Model
+
+Difference Between Class Based Views And Function Based Views
+Create A Simple Class Based View
+
+Ablosulte And Relative Path
+
+Set Templates And Static Files.
+
+Django Shell
+
+check http.dog and http.cat websites

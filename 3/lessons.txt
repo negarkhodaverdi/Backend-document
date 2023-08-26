@@ -1,0 +1,21 @@
+Difference Between Front End And Backend
+
+Whats Virtual Environment
+install virtualenv
+setup virtualenv
+install django
+create new project
+
+inspect settings.py and urls.py
+create new app
+inspect models.py, views.py, admin.py, apps.py
+add new app to settings
+
+runserver once
+make migrations and migrate
+
+create superuser
+
+inpect admin panel (Users And Groups)
+
+Show Carbon Website

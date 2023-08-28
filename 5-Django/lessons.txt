@@ -1,0 +1,30 @@
+aggregate And annonate For More Info ( Getting Maximum And Minimum And Average And Sum And ...)
+
+What Is Model Manager?
+How To Create A Manager?
+
+Use Manager
+
+list_display,
+list_filter,
+list_editable,
+autocomplete_fields,
+sortable_by,
+search_fields,
+readonly_fields,
+fields
+
+Add Users Model ( AbstractUser )
+register Users Model To Admin
+
+Start The Project
+
+create main and api apps
+Whats API?
+Whats JSON?
+
+setup the project
+
+write Products model Without Connecting To Category Model
+
+Check djangopackages Website

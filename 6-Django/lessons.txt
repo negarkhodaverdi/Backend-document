@@ -1,0 +1,13 @@
+Add Product Model
+Add Category Model
+Add Order Model
+
+Add Products Admin Page
+list_filter,list_display,readonly_fields,search_fields,autocomplete_fields
+
+Define A Function For ProductAdmin Named get_price
+
+Add CategoryAdmin Page
+Add OrderAdmin Page
+
+Dont Forget To Add Your App To Installed App :)

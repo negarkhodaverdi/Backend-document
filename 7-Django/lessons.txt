@@ -1,0 +1,8 @@
+Add OrderItem Model.
+
+Make accounts App.
+
+Wrote User Model From AbstractUser And Add phone,address In It.
+
+Make UserAdmin In accounts.
+make list_filter,list_display,list_editable in it.

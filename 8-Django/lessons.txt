@@ -1,0 +1,16 @@
+Add media Folder To Manage Uploaded Files.
+
+Make Category Serializer.
+Make Product Serializer.
+
+Make MostSell View
+Make Specials View
+Make Categories View
+Make Products View With category and name queryparameter Filter.
+
+Add MostSell Endpoint ( /api/most_sell/ )
+Add Specials Endpoint ( /api/specials/ )
+Add Categories Endpoint ( /api/categories/ )
+Add Products Endpoint ( /api/products/ )
+
+Add autocomplete_fields to ProductAdmin and search_fields To All Admin Classes
